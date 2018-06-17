@@ -1,1 +1,1 @@
-# ui-front-cover-image
+# ui-resource
